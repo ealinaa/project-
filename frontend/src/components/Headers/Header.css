@@ -1,7 +1,7 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('/header_img.jpg') no-repeat center center ;
+    background: url('/header_img.jpg') no-repeat  ;
     background-size: cover;
     position: relative;
 }
@@ -26,6 +26,7 @@
     font-weight: 300;
     color: rgb(0, 0, 0);
     font-size: 1,3vw;
+    
 }
 .header-contents button{
     border: none;

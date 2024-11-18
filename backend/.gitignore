@@ -1,2 +1,4 @@
 .env
 node_modules
+
+# mongodb+srv://alinaadhikari108:<db_password>@cluster0.tgjyg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

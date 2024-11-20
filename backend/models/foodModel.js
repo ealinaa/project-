@@ -27,10 +27,7 @@ const foodSchema = new mongoose.Schema({
 
 const foodModel = mongoose.models.food || mongoose.model("food", foodSchema)
 
-//all of the food list
-const listFood = async(req, res) => {
 
-}
 
 
 export default foodModel;
